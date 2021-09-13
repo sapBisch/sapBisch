@@ -1,9 +1,11 @@
-<h1 align="Left">Hi there</h1>
-✨I'm Stella and i’m currently a Computer Science student at University✨
+# Hey, I'm Stella :wave:
+✨Hi i'm currently a Unerversity Computer Science Student and will be intrested in a job in Softwere development. ✨
 
-<h3 align="left">I’m interested in..</h3>
-<p align="left"> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+
+## I'm intrested and looking to improve my skills in..
+![Java](https://img.shields.io/badge/-Java-FF0000?logo=java&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+
+---
+<!--## Social Media-->
